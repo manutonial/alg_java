@@ -18,7 +18,7 @@ Repositório com exercícios e anotações do curso de **Java** do professor [N�
 
 ## 🧰 Tecnologias
 
-- Java 17  
+- Java 23+
 - NetBeans IDE  
 - Git e GitHub  
 
